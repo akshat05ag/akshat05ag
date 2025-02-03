@@ -23,10 +23,8 @@ Hi 👋, I'm Akshat Agarwal<br>I am a 4th-year student at SRM University and a p
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akshat05ag&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
 </div>
-## 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<div align="center">
+  <img src="https://github.com/akshat05ag/akshat05ag/blob/output/github-snake-dark.svg" />
+</div>
+
