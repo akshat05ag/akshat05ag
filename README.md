@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshat05ag&label=Profile%20views&color=0e75b6&style=flat" alt="akshat05ag" /> </p>
 
 #### 💫 About Me:
-Hi 👋, I'm Akshat<br>I am a 4th-year student at SRM University and a passionate Full Stack Developer. I enjoy building web applications using React, Node.js, and MongoDB while constantly exploring new technologies. My interests include JavaScript, TypeScript, and backend development. Feel free to connect with me.
+Hi 👋, I'm Akshat Agarwal<br>I am a 4th-year student at SRM University and a passionate Full Stack Developer. I enjoy building web applications using React, Node.js, and MongoDB while constantly exploring new technologies. My interests include JavaScript, TypeScript, and backend development. Feel free to connect with me.
 
 
 ## 🌐 Socials:
