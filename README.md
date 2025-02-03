@@ -1,4 +1,8 @@
-# 💫 About Me:
+<div align="center">
+  <img src="https://profile-counter.glitch.me/akshat05ag/count.svg?"  />
+</div>
+
+#### 💫 About Me:
 Hi 👋, I'm Akshat<br>I am a 4th-year student at SRM University and a passionate Full Stack Developer. I enjoy building web applications using React, Node.js, and MongoDB while constantly exploring new technologies. My interests include JavaScript, TypeScript, and backend development. Feel free to connect with me.
 
 
